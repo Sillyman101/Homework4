@@ -1,0 +1,8 @@
+my_string= input('Write whatever you want here: ')
+amount = len(my_string)
+print('You have put in', str(amount), 'letters.')
+print(my_string .upper())
+print(my_string .lower())
+my_string = my_string.replace(' ','')
+print(my_string[0])
+print (my_string[-1])
